@@ -1,1 +1,1 @@
-nano f.cpp;g++ f.cpp -o f
+nano f.c;g++ f.c -o f
